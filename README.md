@@ -7,8 +7,6 @@ Interactive WebAR experience powered by **Three.js** and **MediaPipe**.
 
 ## 🔴🔵🟣 LIVE DEMO: [gojosat0ru.netlify.app](https://gojosat0ru.netlify.app)
 
-![Demo](video/demo.gif)   
-
 </div>
 
 ## ✨ Features & Techniques
